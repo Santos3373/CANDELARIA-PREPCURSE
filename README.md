@@ -1,2 +1,1 @@
-# CANDELARIA-PREPCURSE
-ESTE ES UN ROPSITORIO DE PRUEBA DEL MODULO NRO 2 DEL PREPCURSE DE HENRY
+Este proyecto es un proyecto de prueba para el prepcurse de Henry de como crear un repositorio de Githuh y clonarlo a mi escritorio local
